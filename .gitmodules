@@ -1,0 +1,3 @@
+[submodule "codemap"]
+	path = codemap
+	url = git@bitbucket.org:interfaceware/codemap.git
